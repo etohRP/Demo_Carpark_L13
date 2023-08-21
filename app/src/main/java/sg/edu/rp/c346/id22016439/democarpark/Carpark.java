@@ -30,7 +30,7 @@ public class Carpark {
 
     @Override
     public String toString(){
-        return carparkno + ": " + lotsavailable;
+        return "Carpark Number: " + carparkno + "\nLots Available: " + lotsavailable;
     }
 }
 
